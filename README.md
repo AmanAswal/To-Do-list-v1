@@ -1,1 +1,3 @@
 # To-Do-list-v1
+
+MAKING A TO-DO LIST FROM SCRATCH
